@@ -15,3 +15,5 @@ AudioManager.Instance.ChangeSEVolume(value);
 AudioManager.Instance.MuteBGM(value);
 - Mute sound effect volume:
 AudioManager.Instance.MuteSE(value);
+
+Do not use this for production, it is solely intended for research or learning.
