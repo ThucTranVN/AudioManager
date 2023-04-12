@@ -10,8 +10,8 @@ AudioManager.Instance.PlaySE(AUDIO.Sound_Effect_Name);
 - Change background music volume:
 AudioManager.Instance.ChangeBGMVolume(value);
 - Change sound effect volume:
- AudioManager.Instance.ChangeSEVolume(value);
- - Mute background music volume:
- AudioManager.Instance.MuteBGM(value);
- - Mute sound effect volume:
- AudioManager.Instance.MuteSE(value);
+AudioManager.Instance.ChangeSEVolume(value);
+- Mute background music volume:
+AudioManager.Instance.MuteBGM(value);
+- Mute sound effect volume:
+AudioManager.Instance.MuteSE(value);
